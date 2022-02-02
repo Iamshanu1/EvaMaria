@@ -57,7 +57,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
+<a href="https://github.com/Iamshanu1/EvaMaria">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -67,7 +67,7 @@ You can deploy this bot anywhere.
 <p>
 <pre>
 git clone https://github.com/EvamariaTG/evamaria
-# Install Packages
+# Install 
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
 python3 bot.py
