@@ -48,7 +48,9 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 * Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
 
+#Deploy To Railway
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FIamshanu1%2FEvaMaria&envs=BOT_TOKEN%2CAPI_ID%2CAPI_HASH%2CCHANNELS%2CADMINS%2CDATABASE_URI%2CDATABASE_NAME%2CLOG_CHANNEL%2CPICS%2CFILE_STORE_CHANNEL&optionalEnvs=PICS%2CFILE_STORE_CHANNEL&BOT_TOKENDesc=Create+a+bot+using+%40BotFather%2C+and+get+the+Telegram+API+token.&API_IDDesc=Get+this+value+from+telegram.org&API_HASHDesc=Get+this+value+from+telegram.org&CHANNELSDesc=Username+or+ID+of+channel+or+group.+Separate+multiple+IDs+by+space&ADMINSDesc=Username+or+ID+of+Admin.+Separate+multiple+Admins+by+space&DATABASE_URIDesc=mongoDB+URI.+Get+this+value+from+mongoDB.+For+more+help+watch+this+video&DATABASE_NAMEDesc=Name+of+the+database+in+mongoDB.+For+more+help+watch+this+video&LOG_CHANNELDesc=A+channel+to+log+the+activities+of+bot.+Make+sure+bot+is+an+admin+in+the+channel.&PICSDesc=Telegraph+links+of+images+to+show+in+start+message.%28+Multiple+images+can+be+used+separated+by+space+%29&FILE_STORE_CHANNELDesc=Channel+from+were+file+store+links+of+posts+should+be+made.Separate+multiple+IDs+by+space)
 ## Deploy
 You can deploy this bot anywhere.
 
